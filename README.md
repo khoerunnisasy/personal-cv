@@ -1,2 +1,2 @@
 # cv
-This is my first portfolio. I was reated a curriculum vitae
+This is my first portfolio. I was created a curriculum vitae
